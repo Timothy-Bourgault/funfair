@@ -1,0 +1,10 @@
+.col-xs-4 img {
+  max-width: 100%;
+}
+
+.rideSafe {
+  background-color: #4DB;
+}
+.rideUnsafe {
+  background-color: #F11;
+}
